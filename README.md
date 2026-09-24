@@ -1,4 +1,4 @@
-🏥 Healthcare Patient & Hospital Analytics Dashboard
+**🏥 Healthcare Patient & Hospital Analytics Dashboard**
 
 An interactive **Power BI Healthcare Analytics Dashboard** developed using a dataset containing **50,000 patient records**.  
 The project focuses on analyzing patient information, hospital performance, treatment outcomes, admissions, and financial data to generate meaningful business insights.
