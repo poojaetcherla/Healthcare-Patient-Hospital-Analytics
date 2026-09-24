@@ -47,6 +47,17 @@ The dataset contains **50,000 healthcare records** with information such as:
 
 # 📌 Dashboard Pages
 
+1.Healthcare Overview:
+<img width="1312" height="741" alt="Healthcare overview" src="https://github.com/user-attachments/assets/01f2c1b1-0e87-43d1-b862-9491a41dd485" />
+
+2.Hospital & Financial Analysis:
+<img width="1308" height="734" alt="Hospital and Financial Analysis" src="https://github.com/user-attachments/assets/f78f2f3a-183f-4fd7-a232-dcedd0d1ac68" />
+
+3.Patient & Treatment Analysis:
+<img width="1308" height="736" alt="Patient and Treatment Analysis" src="https://github.com/user-attachments/assets/d6ec1349-007f-470b-b80c-0c766857d3e0" />
+
+---
+
 ## 1️⃣ Healthcare Overview
 
 This page provides an overall summary of the healthcare dataset.
@@ -60,6 +71,7 @@ This page provides an overall summary of the healthcare dataset.
 - 🏥 Average Length of Stay
 - 🚑 Emergency Patients
 
+
 ### Analysis
 
 - Patient demographics
@@ -68,7 +80,6 @@ This page provides an overall summary of the healthcare dataset.
 - Treatment outcome overview
 - Age and gender analysis
 
----
 
 ## 2️⃣ Hospital & Financial Analysis
 
@@ -86,8 +97,6 @@ This dashboard focuses on hospital performance and financial insights.
 ### Business Insights
 
 The dashboard helps understand differences in patient volume, billing amounts, and financial performance across hospitals and insurance providers.
-
----
 
 ## 3️⃣ Patient & Treatment Analysis
 
